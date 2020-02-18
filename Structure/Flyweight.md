@@ -59,7 +59,7 @@
    }
    ```
 
-4. 客户访问
+4. 测试
 
    ```java
    public class FlyweightPatternDemo {
